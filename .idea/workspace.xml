@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="baseGrafos" targetName="baseGrafos" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a52e380-36b5-4578-bcba-b9f085b0cddc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1bbXeIkiFEaxQ8AaTh5jK364QBd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PruebaRegix" />
+  </component>
+  <component name="RunManager">
+    <configuration name="baseGrafos" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="baseGrafos" TARGET_NAME="baseGrafos" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a52e380-36b5-4578-bcba-b9f085b0cddc" name="Default Changelist" comment="" />
+      <created>1588901860495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588901860495</updated>
+      <workItem from="1588901863353" duration="6787000" />
+      <workItem from="1589605119027" duration="1551000" />
+      <workItem from="1589678186168" duration="129000" />
+      <workItem from="1589914244747" duration="370000" />
+      <workItem from="1589950514806" duration="563000" />
+      <workItem from="1590475226085" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1616" y="40" key="#baseGrafos" timestamp="1590475255128">
+      <screen x="1366" y="0" width="1024" height="768" />
+    </state>
+    <state x="1616" y="40" key="#baseGrafos/0.0.1366.768/1366.0.1024.768@1366.0.1024.768" timestamp="1590475255128" />
+    <state x="1699" y="40" key="#baseGrafos/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1589606627766" />
+    <state x="413" y="81" key="FileChooserDialogImpl" timestamp="1589950611912">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="81" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1589950611912" />
+    <state x="1779" y="81" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1589606624374" />
+    <state x="1280" y="172" key="run.anything.popup" timestamp="1589605904700">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="1280" y="172" key="run.anything.popup/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1589605904700" />
+    <state x="-86" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1588904457266" />
+  </component>
+</project>
